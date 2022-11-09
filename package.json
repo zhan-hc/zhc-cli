@@ -1,6 +1,6 @@
 {
   "name": "zhc-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue template",
   "main": "index.js",
   "bin": {
